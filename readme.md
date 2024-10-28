@@ -18,3 +18,6 @@ dia01: **Funções mais usadas no SQL** | [Exercícios](https://github.com/Caleb
 dia02: **Descomplicando JOINs** | [Exercícios](https://github.com/CalebeLAR/trybe_exercises/tree/back-end.section03.day02)  
 dia03: **Transformando ideias em um modelo de banco de dados** | [Exercícios](https://github.com/CalebeLAR/trybe_exercises/tree/back-end.section03.day03)  
 dia04: [**Projeto - One For All**](https://github.com/CalebeLAR/trybe_18_mysql_one_for_all)  
+
+**seção04: `Introdução ao desenvolvimento Web com Node.js`**  
+dia01: **Node.js: Runtime Assíncrono**  
