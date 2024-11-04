@@ -20,4 +20,4 @@ dia03: **Transformando ideias em um modelo de banco de dados** | [Exercícios](h
 dia04: [**Projeto - One For All**](https://github.com/CalebeLAR/trybe_18_mysql_one_for_all)  
 
 **seção04: `Introdução ao desenvolvimento Web com Node.js`**  
-dia01: **Node.js: Runtime Assíncrono**  
+dia01: **Node.js: Runtime Assíncrono** | [Exercícios](https://github.com/CalebeLAR/trybe_exercises/tree/back-end.section04.day01)  
